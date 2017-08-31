@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Receive", "Receive\Receive.csproj", "{56FD2109-03BD-4E48-88B6-02FA355EEF66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfCoinTester", "WpfCoinTester\WpfCoinTester.csproj", "{D71B5175-E09B-446F-A5E4-FA7E417246C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56FD2109-03BD-4E48-88B6-02FA355EEF66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56FD2109-03BD-4E48-88B6-02FA355EEF66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56FD2109-03BD-4E48-88B6-02FA355EEF66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56FD2109-03BD-4E48-88B6-02FA355EEF66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D71B5175-E09B-446F-A5E4-FA7E417246C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D71B5175-E09B-446F-A5E4-FA7E417246C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D71B5175-E09B-446F-A5E4-FA7E417246C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D71B5175-E09B-446F-A5E4-FA7E417246C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84596B4B-C7B4-41DD-8FF0-8D7C2D146E4F}
+	EndGlobalSection
+EndGlobal

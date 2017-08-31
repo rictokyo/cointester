@@ -1,0 +1,34 @@
+﻿Generated model file: Model1.edmx.
+Loading metadata from the database took 00:00:00.6217074.
+Generating the model took 00:00:01.0352126.
+Added the connection string to the App.Config file.
+Writing the .edmx file took 00:00:00.0005589.
+Generated model file: Model1.edmx.
+Loading metadata from the database took 00:00:00.4011725.
+Generating the model took 00:00:00.8982234.
+Generated model file: Model1.edmx.
+Loading metadata from the database took 00:00:00.4450216.
+Generating the model took 00:00:00.9063062.
+Generated model file: EntityModel1.edmx.
+Loading metadata from the database took 00:00:00.4386814.
+Generating the model took 00:00:00.8948591.
+Added the connection string to the App.Config file.
+Writing the .edmx file took 00:00:00.0005778.
+Generated model file: EntityModel1.edmx.
+Loading metadata from the database took 00:00:00.4584848.
+Generating the model took 00:00:00.9258303.
+Generated model file: EntityModel1.edmx.
+Loading metadata from the database took 00:00:00.4856989.
+Generating the model took 00:00:01.0501513.
+Generated model file: EntityModel1.edmx.
+Loading metadata from the database took 00:00:00.4567452.
+Generating the model took 00:00:00.9282133.
+Generated model file: EntityModel1.edmx.
+Loading metadata from the database took 00:00:00.4763940.
+Generating the model took 00:00:00.9413478.
+Generated model file: EntityModel1.edmx.
+Loading metadata from the database took 00:00:00.5214449.
+Generating the model took 00:00:01.0295865.
+Generated model file: EntityModel1.edmx.
+Loading metadata from the database took 00:00:00.4513907.
+Generating the model took 00:00:00.3863498.
